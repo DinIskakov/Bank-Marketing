@@ -1,0 +1,12 @@
+Numeric columns
+
+age - customer age
+duration - caller age
+campaign - number of contacts performed this campaign
+pdays - days since last contact on the last campaign
+previous - numbers of contact before this campaign
+emp.var.rate - 
+cons.price.idx
+cons.conf.idx
+euribor3m
+nr.employed
